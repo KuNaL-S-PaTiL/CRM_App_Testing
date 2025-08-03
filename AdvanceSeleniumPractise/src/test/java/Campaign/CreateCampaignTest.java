@@ -44,6 +44,7 @@ import POM_Repo.ValidationCampaignPage;
 
 // I am Pulling pull1
 // pushBack
+// Pull2
 public class CreateCampaignTest extends Base_Class {
 	@Test(groups="SmokeTest")
 public void createCampaignTest() throws Throwable {
