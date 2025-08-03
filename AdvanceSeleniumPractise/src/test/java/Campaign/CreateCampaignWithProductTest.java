@@ -48,6 +48,7 @@ import POM_Repo.WindowSwitchingPage;
 //->Logout from the application. 
 
 
+//branch2 --> Regression
 public class CreateCampaignWithProductTest extends Base_Class{
 	@Test(groups="SmokeTest")
 public void createCampaignTest() throws Throwable {
