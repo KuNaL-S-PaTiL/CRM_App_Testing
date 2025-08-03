@@ -46,7 +46,7 @@ import POM_Repo.ValidationCampaignPage;
 // pushBack
 // Pull2
 
-// ENG2 push
+// ENG 2 push
 public class CreateCampaignTest extends Base_Class {
 	@Test(groups="SmokeTest")
 public void createCampaignTest() throws Throwable {
