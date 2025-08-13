@@ -64,7 +64,7 @@ public class Base_Class {
 		}
 
 		sdriver = driver;
-		System.out.println("Launch Browser");
+		System.out.println("Launching" + BROWSER + "Browser");
 	}
 	
 //	@Parameters({"URL","USERNAME","PASSWORD"})
